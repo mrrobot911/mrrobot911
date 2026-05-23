@@ -229,6 +229,6 @@ A minimal React clone with Virtual DOM, fiber-like reconciliation, hooks (`useSt
 ---
 
 <div align="center">
-  <h3>💡 Food for thought</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
+  <h3>😅 A little humor for the end</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
