@@ -15,6 +15,15 @@ Some of my coursework and learning projects are hosted on separate accounts:
 
 ---
 
+## 🌐 Connect
+
+<div align="center">
+  <a href="mailto:kelwin2705@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/kelwin2705@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+---
+
 ## 🚀 About Me
 
 Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms**, and **software architecture** (RS School background). I build complete applications end-to-end — from database schema to deployed UI — with a focus on type-safety, testability, and clean architecture.
@@ -134,7 +143,7 @@ Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms
         <p><strong>Stack:</strong> Angular 18, Angular CDK, Material, Jest</p>
         <p>YouTube-like interface with drag-and-drop (CDK), Material components, and test coverage.</p>
         <p>
-          <a href="https://github.com/mrrobot911/YouTube"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+          <a href="https://github.com/mrrobot911/ANGULAR2024Q3/tree/test8-unit-test/youtube-client-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
           <a href="https://you-tube-soty.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
         </p>
       </div>
@@ -148,7 +157,6 @@ Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms
         <p>Classic nonogram puzzle game with custom game logic, canvas rendering, and responsive UI.</p>
         <p>
           <a href="https://github.com/mrrobot911/nonogram"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://rolling-snickerdoodle-7b8b37.netlify.app/"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
         </p>
       </div>
     </td>
@@ -216,15 +224,6 @@ Used in production in [`quiz/`](https://github.com/mrrobot911/quiz) to power bot
 
 ### ⚛️ **MiniReact** (used in [`FunChat`](https://github.com/mrrobot911/FunChat) and [`async-race-V2`](https://github.com/mrrobot911/async-race-V2))
 A minimal React clone with Virtual DOM, fiber-like reconciliation, hooks (`useState`, `useEffect`, `useContext`, `useReducer`, `useMemo`, `useCallback`, `useRef`, `useLayoutEffect`), Context API, and a custom router. Zero React dependency — both projects run entirely on MiniReact.
-
----
-
-## 🌐 Connect
-
-<div align="center">
-  <a href="mailto:kelwin2705@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/kelwin2705@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/Elidion-netizen" target="_blank">
     <img src="https://img.shields.io/badge/@Elidion--netizen-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning Account"/>
   </a>
