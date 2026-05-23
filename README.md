@@ -145,7 +145,6 @@ Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms
         <p>YouTube-like interface with drag-and-drop (CDK), Material components, and test coverage.</p>
         <p>
           <a href="https://github.com/mrrobot911/ANGULAR2024Q3/tree/test8-unit-test/youtube-client-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://you-tube-soty.vercel.app"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
         </p>
       </div>
     </td>
@@ -158,6 +157,7 @@ Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms
         <p>Classic nonogram puzzle game with custom game logic, canvas rendering, and responsive UI.</p>
         <p>
           <a href="https://github.com/mrrobot911/nonogram"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+          <a href="https://rolling-snickerdoodle-7b8b37.netlify.app/"><img src="https://img.shields.io/badge/Live-000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
         </p>
       </div>
     </td>
