@@ -225,10 +225,10 @@ Used in production in [`quiz/`](https://github.com/mrrobot911/quiz) to power bot
 
 ### ⚛️ **MiniReact** (used in [`FunChat`](https://github.com/mrrobot911/FunChat) and [`async-race-V2`](https://github.com/mrrobot911/async-race-V2))
 A minimal React clone with Virtual DOM, fiber-like reconciliation, hooks (`useState`, `useEffect`, `useContext`, `useReducer`, `useMemo`, `useCallback`, `useRef`, `useLayoutEffect`), Context API, and a custom router. Zero React dependency — both projects run entirely on MiniReact.
-  <a href="https://github.com/Elidion-netizen" target="_blank">
-    <img src="https://img.shields.io/badge/@Elidion--netizen-181717?style=for-the-badge&logo=github&logoColor=white" alt="Learning Account"/>
-  </a>
-  <a href="https://github.com/reactwizardcat" target="_blank">
-    <img src="https://img.shields.io/badge/@reactwizardcat-181717?style=for-the-badge&logo=github&logoColor=white" alt="React Learning Account"/>
-  </a>
+
+---
+
+<div align="center">
+  <h3>💡 Food for thought</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
 </div>
