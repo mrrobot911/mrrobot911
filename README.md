@@ -21,6 +21,7 @@ Some of my coursework and learning projects are hosted on separate accounts:
   <a href="mailto:kelwin2705@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/kelwin2705@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</div>
   
 ---
 
