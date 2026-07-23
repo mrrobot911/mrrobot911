@@ -30,7 +30,7 @@ Some of my coursework and learning projects are hosted on separate accounts:
 Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms**, and **software architecture** (RS School background). I build complete applications end-to-end — from database schema to deployed UI — with a focus on type-safety, testability, and clean architecture.
 
 - ⚛️ Author of **MiniReact** — a React clone with Virtual DOM, hooks, and reconciliation, powering [`FunChat`](https://github.com/mrrobot911/FunChat) and [`async-race-V2`](https://github.com/mrrobot911/async-race-V2).
-- 🔭 Author of [`angular-mini`](https://github.com/mrrobot911/angular-mini) — an Angular-inspired TypeScript framework with **DI, decorators, signals, and template parser**.
+- 🔭 Author of [`angular-mini`](https://github.com/mrrobot911/quiz/tree/main/angular-mini) — an Angular-inspired TypeScript framework with **DI, decorators, signals, and template parser**.
 - ⚙️ Building a **Go monolith** ([`quiz`](https://github.com/mrrobot911/quiz)) and a **.NET 8 Clean Architecture** app ([`SocialDBViewer`](https://github.com/mrrobot911/SocialDBViewer)) with DDD & CQRS.
 - 🛡️ Advocate of **DDD**, **CQRS**, **SOLID**, and **Conventional Commits**.
 - 🧠 Solving algorithmic challenges daily on [**LeetCode (kelwin2705)**](https://leetcode.com/kelwin2705/).
