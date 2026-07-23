@@ -110,10 +110,10 @@ Fullstack Engineer with a strong foundation in **Core JavaScript**, **algorithms
       <h3 align="center">🎯 Quiz Platform + <code>angular-mini</code> framework</h3>
       <div align="center">
         <p><strong>Stack:</strong> Go (backend), custom Angular-like framework, SQLite, Docker</p>
-        <p>Built my own <strong>Angular-inspired framework</strong> (<a href="https://github.com/mrrobot911/angular-mini"><code>angular-mini</code></a>) with <strong>DI container</strong>, <strong>decorators</strong>, <strong>template parser</strong>, <strong>Signal-based reactivity</strong>, <strong>@Input/@Output</strong> bindings, and <strong>style encapsulation</strong>. Monorepo with Go backend (3-layer arch, CORS, Swagger) and separate Admin Panel SPA.</p>
+        <p>Built my own <strong>Angular-inspired framework</strong> (<a href="https://github.com/mrrobot911/quiz/tree/main/angular-mini"><code>angular-mini</code></a>) with <strong>DI container</strong>, <strong>decorators</strong>, <strong>template parser</strong>, <strong>Signal-based reactivity</strong>, <strong>@Input/@Output</strong> bindings, and <strong>style encapsulation</strong>. Monorepo with Go backend (3-layer arch, CORS, Swagger) and separate Admin Panel SPA.</p>
         <p>
           <a href="https://github.com/mrrobot911/quiz"><img src="https://img.shields.io/badge/Quiz_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-          <a href="https://github.com/mrrobot911/angular-mini"><img src="https://img.shields.io/badge/angular--mini-E23237?style=for-the-badge&logo=angular&logoColor=white"/></a>
+          <a href="https://github.com/mrrobot911/quiz/tree/main/angular-mini"><img src="https://img.shields.io/badge/angular--mini-E23237?style=for-the-badge&logo=angular&logoColor=white"/></a>
         </p>
       </div>
     </td>
@@ -178,7 +178,7 @@ The best way to master a framework is to rebuild its core concepts from scratch 
 
 | What I implemented | What I learned | Where |
 |---|---|---|
-| **`angular-mini`** — full Angular-like framework | DI container, decorators, template parser/compiler, style encapsulation, `@Input`/`@Output` bindings, component registry, bootstrap lifecycle | [`angular-mini/`](https://github.com/mrrobot911/angular-mini) |
+| **`angular-mini`** — full Angular-like framework | DI container, decorators, template parser/compiler, style encapsulation, `@Input`/`@Output` bindings, component registry, bootstrap lifecycle | [`angular-mini/`](https://github.com/mrrobot911/quiz/tree/main/angular-mini) |
 | **Signal-based reactivity** | Signals pattern (Angular 16+/Preact Signals), Observable adapters, fine-grained reactivity without Virtual DOM | `angular-mini/signals/` |
 | **MiniReact** — React clone | Virtual DOM, reconciliation algorithm, commit phase, all core hooks (`useState`, `useEffect`, `useContext`, `useReducer`, `useMemo`, `useCallback`, `useRef`, `useLayoutEffect`), Context API, custom router | [`FunChat/src/react/`](https://github.com/mrrobot911/FunChat), [`async-race-V2/src/react/`](https://github.com/mrrobot911/async-race-V2) |
 | **Vanilla TS MVC architecture** | `BaseComponent` class, Observer pattern, Page Controllers, Service layer, API services | [`async-race/`](https://github.com/mrrobot911/async-race), `FunChat` (legacy) |
